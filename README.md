@@ -2,16 +2,16 @@
 
 ## Overview of Project
 
-This project’s objective is to apply analysis, visualizations, statistical skills and retrieve specific information from websites using application programing interface (API) from 2000 cities around the world.  The expected deliverables for this project are:
+This project’s objective is to apply analysis, visualizations, statistical skills and retrieve specific information from websites using application programing interface (API) from 2000 cities around the world.  
+
+This will enhance the user interface and functionalities of the PlanMyTrip app with the following steps:
 *	Retrieve Weather Data
 *	Create a Customer Travel Destination Map
 *	Create a Travel Itinerary Map
 
-## Data Source Information
-The data source used in this project was retrieved from Open Weather website, Google gmaps and the statistical analysis was performed with Citipy Library. 
-
-## Software
-Python 3.7.6, Pandas Library, Matplotlib, Jupyter Notebook, APIs and JSON Traversals.
+## Resources
+* Data source: Open Weather website, Google gmaps and the statistical analysis was performed with Citipy Library. 
+* Software: Python 3.7.6, Pandas Library, Matplotlib, Jupyter Notebook, APIs and JSON Traversals.
 
 ## Results 
 
